@@ -22,7 +22,7 @@ color: #dd9a00;
 background:#fffe2b !important;
 }
 .header{
- background-image: url(https://oir.mobi/uploads/posts/2021-09/thumbs/1632467496_30-oir-mobi-p-oranzhevie-gladiolusi-tsveti-krasivo-foto-33.jpg);
+ background-image: url('https://oir.mobi/uploads/posts/2021-09/thumbs/1632467496_30-oir-mobi-p-oranzhevie-gladiolusi-tsveti-krasivo-foto-33.jpg');
  background-attachment: fixed;
  background-size: cover;
  background-position: center;
